@@ -26,8 +26,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/responsive-layout-using-css-grid-and-flexbox-ILTnzWI6f)
-- [Live Site URL](https://willian-souza.github.io/Frontend-Mentor-Challenge-Stats-preview-card/)
+- [Solution URL](https://www.frontendmentor.io/solutions/layout-using-html-and-css-flexbox-9yDSI5n_5)
+- [Live Site URL](https://willian-souza.github.io/Frontend-Mentor-Challenge-Profile-Card/)
 ---
 # 🖥 Built with
 

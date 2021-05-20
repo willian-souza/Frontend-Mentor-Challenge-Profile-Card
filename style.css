@@ -26,7 +26,7 @@
     max-width: 90%;
     background-color: white;
     position: relative;
-    border-radius: 10px;
+    border-radius: 15px;
     font-family: 'Kumbh Sans', sans-serif;
 }
 
@@ -39,7 +39,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    border-radius: 10px 10px 0 0;
+    border-radius: 15px 15px 0 0;
 }
 
 .profile{
@@ -79,19 +79,22 @@
     font-size: 0.80rem;
 }
 
+
 .number{
     font-weight: 700;
 }
 
 .label{
-    font-size: 0.6rem;
+    font-size: 0.5rem;
     letter-spacing: 0.15rem;
     margin-top: 5px;
 }
 
 .stats{
+    border-top: 1px solid hsl(0, 2%, 82%);
     width: 100%;
-    margin-top: 60px;
+    margin-top: 30px;
+    padding-top: 30px;
     display: flex;
     justify-content: space-evenly;
     text-align: center;
